@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Consulta Veterinaria",
+    "description": "Atención veterinaria general para el control de salud de tu mascota.",
+    "price": 15000,
+    "image": "/img/petware/perroenfermito.jpg",
+    "category": "servicios"
+  },
+  {
+    "id": 2,
+    "name": "Alimento para Mascotas",
+    "description": "Alimento balanceado para perros y gatos, ideal para una nutrición completa y saludable.",
+    "price": 18500,
+    "image": "/img/petware/comidamascota.jpg",
+    "category": "alimentos"
+  },
+  {
+    "id": 3,
+    "name": "Juguete para Perro",
+    "description": "Juguete resistente para perros, ideal para estimular el juego y mantenerlos entretenidos.",
+    "price": 7500,
+    "image": "/img/petware/perro_juguete.jpg",
+    "category": "accesorios"
+  },
+  {
+    "id": 4,
+    "name": "Cuidado para Cachorros",
+    "description": "Productos y cuidados especiales pensados para cachorros durante sus primeros meses de vida.",
+    "price": 12000,
+    "image": "/img/petware/cachorro.jpg",
+    "category": "cachorros"
+  },
+  {
+    "id": 5,
+    "name": "Atención para Cachorros",
+    "description": "Servicio de control y orientación para el crecimiento saludable de cachorros.",
+    "price": 14000,
+    "image": "/img/petware/cachorros.jpg",
+    "category": "servicios"
+  },
+  {
+    "id": 6,
+    "name": "Productos para Mascotas",
+    "description": "Selección de productos y accesorios para el bienestar y cuidado de tus mascotas.",
+    "price": 10000,
+    "image": "/img/petware/mascotas.jpg",
+    "category": "accesorios"
+  }
+]
